@@ -1,7 +1,5 @@
 # PRODUCT-RECOMMENDER-SYSTEM
 
-Author - Sanjay
-
 ### 1. Initial Setup
 
 - **Push code to GitHub**  
